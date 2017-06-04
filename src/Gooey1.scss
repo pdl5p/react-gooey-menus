@@ -25,9 +25,9 @@ h1{
   font-size:3em;
 }
 %goo{
-  filter:url('#shadowed-goo');
+  filter:url('#goo');
   // debug
-  // background:rgba(255,0,0,0.2);
+   //background:rgba(255,0,0,0.01);
 }
 %ball{
   background:$fg;
